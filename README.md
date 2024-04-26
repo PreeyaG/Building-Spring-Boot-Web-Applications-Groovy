@@ -1,4 +1,4 @@
-## Building Spring Boot Web Applications Sampless
+## Building Spring Boot Web Applications Samplesss
 
 NOTE: You can open this sample inside an IDE using the [IntelliJ native importer](https://www.jetbrains.com/help/idea/gradle.html#gradle_import_project_start) or [Eclipse Buildship](https://projects.eclipse.org/projects/tools.buildship).
 
